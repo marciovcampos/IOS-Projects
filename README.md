@@ -7,12 +7,16 @@ IOS - Projects é um repositório com vários projetos simples utilizando a ling
 
 Este reposítório foi desenvolvido para a disciplina de DESENVOLVIMENTO DE APLICAÇÕES PARA IOS para a pós-graduação de Desenvolvimento de Aplicações para Dispositivos Móveis na PUC Minas.
 
-[![License](https://img.shields.io/github/license/marciovcampos/IOS-Projects.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/marciovcampos/IOS-Projects/blob/master/LICENSE)
 
 
 ## [Exercício 1](https://github.com/marciovcampos/IOS-Projects/tree/master/Exercicio-1)
 
+Determinar se um triângulo é equilátero, isósceles ou escaleno.
+
 ## [Exercício 2](https://github.com/marciovcampos/IOS-Projects/tree/master/Exercicio-2)
+
+Sistema bancário simples em Swift
 
 ## [Exercício 3](https://github.com/marciovcampos/IOS-Projects/tree/master/Exercicio-3)
 
@@ -21,4 +25,4 @@ Este reposítório foi desenvolvido para a disciplina de DESENVOLVIMENTO DE APLI
 
 
 ## Sobre: 
-IOS - Projects foi desenvolvido por [Márcio Vinícius](https://github.com/marciovcampos) com a lincença [MIT](LICENSE).
+IOS - Projects foi desenvolvido por [Márcio Vinícius](https://github.com/marciovcampos) sob a lincença [MIT](LICENSE).

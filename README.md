@@ -16,13 +16,15 @@ Determinar se um triângulo é equilátero, isósceles ou escaleno.
 
 ## [Exercício 2](https://github.com/marciovcampos/IOS-Projects/tree/master/Exercicio-2)
 
-Sistema bancário simples em Swift
+Sistema bancário simples em Swift.
 
 ## [Exercício 3](https://github.com/marciovcampos/IOS-Projects/tree/master/Exercicio-3)
 
+App para descobrir a quantos anos se passaram desde uma determinada data.
+
 ## [Exercício 4](https://github.com/marciovcampos/IOS-Projects/tree/master/Exercicio-4)
 
-
+Clone simplificado da calculadora do iOS.
 
 ## Sobre: 
 IOS - Projects foi desenvolvido por [Márcio Vinícius](https://github.com/marciovcampos) sob a lincença [MIT](LICENSE).

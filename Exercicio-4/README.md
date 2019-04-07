@@ -7,4 +7,4 @@ Clone simplificado da calculadora do iOS.
 
 ## Screenshot 
 
-<img src="https://github.com/marciovcampos/IOS-Projects/blob/master/Exercicio-3/screen.JPG"/>
+<img src="https://github.com/marciovcampos/IOS-Projects/blob/master/Exercicio-4/screen.JPG"/>

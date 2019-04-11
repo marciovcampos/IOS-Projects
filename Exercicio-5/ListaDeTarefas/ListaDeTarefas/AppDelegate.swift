@@ -1,8 +1,4 @@
-//
-//  AppDelegate.swift
-//  Calculator
-//
-//  Created by @marciovcampos
+//  Created by u@marciovcampos
 
 import UIKit
 

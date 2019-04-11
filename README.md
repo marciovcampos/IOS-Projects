@@ -26,5 +26,9 @@ App para descobrir a quantos anos se passaram desde uma determinada data.
 
 Clone simplificado da calculadora do iOS.
 
+## [Exercício 5](https://github.com/marciovcampos/IOS-Projects/tree/master/Exercicio-5)
+
+App de Lista de Tarefas
+
 ## Sobre: 
 IOS - Projects foi desenvolvido por [Márcio Vinícius](https://github.com/marciovcampos) sob a lincença [MIT](LICENSE).

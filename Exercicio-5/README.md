@@ -7,5 +7,5 @@ App de Lista de Tarefas
 
 ## Screenshot 
 
-<img src="https://github.com/marciovcampos/IOS-Projects/blob/master/Exercicio-4/screen1.JPG"/>
-<img src="https://github.com/marciovcampos/IOS-Projects/blob/master/Exercicio-4/screen2.JPG"/>
+<img src="https://github.com/marciovcampos/IOS-Projects/blob/master/Exercicio-5/screen1.JPG"/>
+<img src="https://github.com/marciovcampos/IOS-Projects/blob/master/Exercicio-5/screen2.JPG"/>
